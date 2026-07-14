@@ -85,14 +85,13 @@ I'm currently seeking opportunities as a **Data Analyst**, **Business Intelligen
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aravinthan-126&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=aravinthan-126&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravinthan-126&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-> ⚠️ Replace `YOUR_USERNAME` above with your actual GitHub username so these stat cards render correctly.
 
 ---
 
@@ -110,7 +109,6 @@ Advanced SQL queries designed for business reporting and data-driven decisions.
 ### 🐍 Python Data Analysis
 Data cleaning and exploratory analysis using Pandas, NumPy, and visualization libraries.
 
-> 📌 *Tip: link each project above to its actual GitHub repository once uploaded, to make this section clickable and credible.*
 
 ---
 
