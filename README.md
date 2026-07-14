@@ -10,7 +10,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aravinthanmurugesan3345@gmail.com)
 [![Location](https://img.shields.io/badge/Coimbatore%2C%20India-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
-<img src="https://komarev.com/ghpvc/?username=aravinthan-126&label=Profile%20Views&color=6D28D9&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
@@ -25,12 +24,12 @@ I enjoy transforming raw data into meaningful insights that support business dec
 I'm currently seeking opportunities as a **Data Analyst**, **Business Intelligence Analyst**, or **Azure Data Engineer**, where I can contribute, keep learning, and grow professionally.
 
 ```yaml
-role: Aspiring Data Analyst
-education: MCA (Master of Computer Applications)
-previous_role: Data Analyst Intern @ OneData Software Solutions
-focus: [Azure Data Engineering, Power BI, SQL, Python, ETL]
-currently_learning: [Azure Data Factory, Azure Databricks, Advanced SQL, Microsoft Fabric]
-open_to: [Data Analyst, BI Analyst, Azure Data Engineer]
+Role: Aspiring Data Analyst
+Education: MCA (Master of Computer Applications)
+Previous_role: Data Analyst Intern @ OneData Software Solutions
+Focus: [Azure Data Engineering, Power BI, SQL, Python, ETL]
+Currently_learning: [Microsoft Azure, Advanced SQL, Microsoft Fabric]
+Open_to: [Data Analyst, BI Analyst, Azure Data Engineer]
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:0BA5EC,100:6D28D9&height=3&section=header" width="100%"/>
@@ -80,7 +79,7 @@ open_to: [Data Analyst, BI Analyst, Azure Data Engineer]
 
 | Institution | Program |
 |---|---|
-| SNS Institutions | Master of Computer Applications (MCA), Computer Science |
+| SNS Institutions (Dr. SNS Rajalakshmi College of Arts and Science) | Master of Computer Applications (MCA), Computer Science |
 | Bharathidasan University (Swami Dayananda College of Arts and Science, Manjakkudi) | B.Sc. Information Technology (2022 – 2025) |
 | Government Boys Hr. Sec. School, Nannilam | XII, Computer Science |
 | George Partly Govt. Aided Hr. Sec. School, Vishnupuram | X |
