@@ -1,176 +1,137 @@
-<!-- ===================== HEADER ===================== -->
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Aravinthan Murugesan</h1>
+# Hi, I'm Aravinthan Murugesan 👋
 
-<h3 align="center">
-Data Analyst | Azure Data Engineer Enthusiast | Python | SQL | Power BI
-</h3>
+### Data Analyst · Azure Enthusiast · SQL | Python | Power BI | Excel
 
-<p align="center">
-Transforming raw data into meaningful business insights 📊
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Aspiring+Data+Analyst;Azure+Data+Engineer+Enthusiast;Power+BI+Dashboard+Developer;SQL+%7C+Python+%7C+ETL+Developer;Turning+Raw+Data+Into+Insights" alt="Typing SVG" />
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Aspiring+Data+Analyst;Azure+Data+Engineer+Enthusiast;Power+BI+Dashboard+Developer;SQL+%7C+Python+%7C+ETL+Developer;Always+Learning+New+Technologies" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aravinthanmurugesan)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aravinthanmurugesan3345@gmail.com)
+[![Location](https://img.shields.io/badge/Coimbatore%2C%20India-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+
+</div>
 
 ---
 
-# 🚀 About Me
+## 👨‍💻 About Me
 
-🎓 MCA Student
+I'm an **MCA student** and aspiring **Data Analyst** with hands-on experience in SQL, Python, Power BI, Excel, and Microsoft Azure. During my internship at **OneData Software Solutions**, I worked with Azure Data Factory, Azure Databricks, Azure Storage, SQL, Python, and Power BI to build data pipelines, analyze datasets, and create interactive dashboards.
 
-💼 Former **Data Analyst Intern** at **OneData Software Solutions**
+I enjoy transforming raw data into meaningful insights that support business decisions — my strengths lie in **data cleaning, ETL processes, dashboard development, data visualization, and problem-solving**.
 
-☁️ Passionate about **Azure Data Engineering**
+I'm currently seeking opportunities as a **Data Analyst**, **Business Intelligence Analyst**, or **Azure Data Engineer**, where I can contribute, keep learning, and grow professionally.
 
-📊 Love creating interactive dashboards using **Power BI**
-
-🐍 Skilled in **Python, SQL, Excel, Azure & ETL**
-
-📈 Interested in
-
-- Data Analytics
-- Business Intelligence
-- Azure Data Engineering
-- Data Visualization
-- Cloud Technologies
-
-🌱 Currently learning
-
-- Azure Data Factory
-- Azure Databricks
-- Advanced SQL
-- Microsoft Fabric
-- Machine Learning
-
-💬 Ask me about
-
-- SQL
-- Python
-- Power BI
-- Azure
-- Excel
-- Data Cleaning
-- ETL
+- 🎓 Pursuing MCA (Master of Computer Applications) — Computer Science
+- 💼 Former Data Analyst Intern at **OneData Software Solutions**
+- ☁️ Passionate about Azure Data Engineering
+- 📊 Enjoy building interactive dashboards in Power BI
+- 🌱 Currently deepening my skills in Azure Data Factory, Azure Databricks, Advanced SQL, and Microsoft Fabric
+- 💬 Happy to talk about SQL, Python, Power BI, Azure, Excel, Data Cleaning, and ETL
 
 ---
 
-# 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-### Programming
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,mysql,excel,powerbi" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,mysql,azure,excel" />
 
-### Cloud
+<br/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=azure" />
-</p>
+**Business Intelligence & Visualization**
+&nbsp;•&nbsp; Power BI &nbsp;•&nbsp; Microsoft Excel &nbsp;•&nbsp; Data Visualization
 
-### Data Analytics
+**Cloud & Data Engineering**
+&nbsp;•&nbsp; Azure Data Factory &nbsp;•&nbsp; Azure Databricks &nbsp;•&nbsp; Azure Storage &nbsp;•&nbsp; ETL
 
-- 📊 Power BI
-- 📈 Microsoft Excel
-- 🗄 SQL
-- 🔄 ETL
-- 📉 Data Visualization
-- 📦 Azure Storage
-- ⚡ Azure Data Factory
-- 🚀 Azure Databricks
+**Languages & Databases**
+&nbsp;•&nbsp; SQL &nbsp;•&nbsp; Python
+
+</div>
 
 ---
 
-# 📊 GitHub Stats
+## 💼 Experience
 
-<p align="center">
+**Data Analyst Intern — OneData Software Solutions** · Coimbatore
+*May 2026 – June 2026*
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
+- Gained hands-on experience with the Microsoft Azure Cloud Platform (Azure Data Factory, Azure Databricks, Azure Storage Account), SQL, Python, and Power BI for data analysis and visualization.
+- Participated in Knowledge Transfer (KT) sessions under mentorship, gaining practical exposure to industry workflows and best practices.
+- Strengthened analytical, problem-solving, and data visualization skills through real-world projects and collaborative learning.
+- Built a solid, end-to-end understanding of the data analytics lifecycle — from data preparation to insight generation and reporting.
 
 ---
 
-# 📈 Contribution Graph
+## 🎓 Education
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
-</p>
+| Institution | Program |
+|---|---|
+| SNS Institutions | Master of Computer Applications (MCA), Computer Science |
+| Bharathidasan University (Swami Dayananda College of Arts and Science, Manjakkudi) | B.Sc. Information Technology (2022 – 2025) |
+| Government Boys Hr. Sec. School, Nannilam | XII, Computer Science |
+| George Partly Govt. Aided Hr. Sec. School, Vishnupuram | X |
 
 ---
 
-# 💻 Featured Projects
+## 🏆 Certifications
 
-### 📊 Power BI Dashboard
+- 🏅 **Tata — GenAI Powered Data Analytics** Job Simulation
 
-Interactive dashboards with business insights.
+---
 
-### ☁ Azure Data Engineering
+## 📊 GitHub Stats
 
-ETL pipelines using Azure Data Factory & Databricks.
+<div align="center">
 
-### 🗃 SQL Analytics
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
-Advanced SQL queries for business reporting.
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+> ⚠️ Replace `YOUR_USERNAME` above with your actual GitHub username so these stat cards render correctly.
+
+---
+
+## 💻 Featured Projects
+
+### 📊 Power BI Dashboards
+Interactive dashboards translating raw datasets into clear, actionable business insights.
+
+### ☁️ Azure Data Engineering
+End-to-end ETL pipelines built with Azure Data Factory and Azure Databricks.
+
+### 🗃️ SQL Analytics
+Advanced SQL queries designed for business reporting and data-driven decisions.
 
 ### 🐍 Python Data Analysis
+Data cleaning and exploratory analysis using Pandas, NumPy, and visualization libraries.
 
-Data Cleaning, Pandas, NumPy and Visualization.
-
----
-
-# 🏆 Certifications
-
-🏅 Tata - GenAI Powered Data Analytics Job Simulation
+> 📌 *Tip: link each project above to its actual GitHub repository once uploaded, to make this section clickable and credible.*
 
 ---
 
-# 🌐 Connect with Me
+<div align="center">
 
-<p align="left">
+## 🌐 Let's Connect
 
-<a href="https://linkedin.com/in/aravinthanmurugesan">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aravinthanmurugesan)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aravinthanmurugesan3345@gmail.com)
 
-<a href="mailto:aravinthanmurugesan3345@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
 
-</p>
+</div>
 
 ---
 
-# 👀 Profile Views
+<div align="center">
 
-<p>
+> *"Without data, you're just another person with an opinion."*
+> — W. Edwards Deming
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+⭐ **If you find my work valuable, consider starring my repositories!**
 
-</p>
-
----
-
-# 💡 Quote
-
-> **"Without data, you're just another person with an opinion."** — W. Edwards Deming
-
----
-
-<p align="center">
-
-⭐ If you like my work, consider giving a star to my repositories!
-
-</p>
+</div>
