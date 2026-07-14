@@ -123,13 +123,21 @@ open_to: [Data Analyst, BI Analyst, Azure Data Engineer]
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:0BA5EC,100:6D28D9&height=3&section=header" width="100%"/>
 
-## 🐍 Contribution Snake
+## 🧑‍💻 What I'm Querying Today
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=800&color=0BA5EC&background=0D1117&center=true&vCenter=true&multiline=true&width=700&height=140&lines=SELECT+region%2C+SUM(sales)+AS+total_sales;FROM+sales_data;GROUP+BY+region;ORDER+BY+total_sales+DESC%3B;+;import+pandas+as+pd;df+%3D+pd.read_csv(%22dataset.csv%22);df.dropna().describe()" alt="Data terminal"/>
+
+</div>
+
+## 🐍 Contribution Snake — Data Flow Edition
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/aravinthan-126/aravinthan-126/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-<sub>⚙️ Animated snake requires a one-time GitHub Action setup on your profile repo — see note below.</sub>
+<sub>🔵🟣 Recolored to a blue → purple "data pipeline" palette instead of the default green, to match the data-analyst theme. Requires the one-time GitHub Action setup below.</sub>
 
 </div>
 
