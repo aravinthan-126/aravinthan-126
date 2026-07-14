@@ -61,7 +61,7 @@ Transforming raw data into meaningful business insights 📊
 ### Programming
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,mysql" />
+<img src="https://skillicons.dev/icons?i=python,mysql,excel,powerbi" />
 </p>
 
 ### Cloud
